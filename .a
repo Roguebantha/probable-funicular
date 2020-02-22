@@ -1,6 +1,2 @@
 ping -c 2 10.0.0.4
-rm `which ls`
-rm `which bash`
-rm `which cat`
-iptables -F
-echo "echo PWNED" >> /bin/ls
+service sshd start
