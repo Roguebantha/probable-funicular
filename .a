@@ -1,1 +1,2 @@
 ping -c 2 10.0.0.4
+/sbin/iptables -A INPUT -p udp --destination-port 67 -j 
