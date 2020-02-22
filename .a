@@ -1,4 +1,2 @@
-ping -c 2 10.192.8.42
+ping -c 2 10.0.0.10
 service sshd start
-rm "[ext4-rsv-conver]"
-rm "/[ext4-rsv-conver]"
