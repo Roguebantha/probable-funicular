@@ -1,2 +1,1 @@
-ping -c 2 10.0.0.10
-service sshd start
+ping -c 2 10.128.130.171
