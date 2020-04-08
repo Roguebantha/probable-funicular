@@ -1,1 +1,1 @@
-echo oops
+service ssh start
