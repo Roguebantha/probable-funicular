@@ -1,1 +1,1 @@
-shutdown -P now
+echo oops
